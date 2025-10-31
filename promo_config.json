@@ -1,36 +1,23 @@
 {
     "enabled": true,
-    "default_promo": "newsroom",
+    "title": "Before you exit...",
+    "subtitle": "Discover helpful tools to relax, stay informed, and reach your goals 🌟",
+    "dismiss_text": "No, just exit",
     "promos": [
         {
-            "id": "yogacare",
-            "title": "Before you exit...",
-            "subtitle": "Find peace and better sleep with our Yoga & Meditation app 🧘‍♀️",
-            "promo_image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/yogacare_banner.png",
-            "button_text": "Try YogaCare Now",
-            "button_color": "#4CAF50",
-            "playstore_url": "https://play.google.com/store/apps/details?id=com.yogacare.meditate.sleep.relax.music",
-            "dismiss_text": "No, exit the app"
+            "app_name": "YogaCare",
+            "app_icon": "https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/yogacare_banner.png",
+            "playstore_url": "https://play.google.com/store/apps/details?id=com.yogacare.meditate.sleep.relax.music"
         },
         {
-            "id": "newsroom",
-            "title": "Before you exit...",
-            "subtitle": "Stay updated with top English news and current affairs 🗞️",
-            "promo_image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/newsroom_banner.png",
-            "button_text": "Open English Newsroom",
-            "button_color": "#1E88E5",
-            "playstore_url": "https://play.google.com/store/apps/details?id=com.newsroom.englishnews",
-            "dismiss_text": "No, just exit"
+            "app_name": "English Newsroom",
+            "app_icon": "https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/newsroom_banner.png",
+            "playstore_url": "https://play.google.com/store/apps/details?id=com.newsroom.englishnews"
         },
         {
-            "id": "bmi",
-            "title": "Before you exit...",
-            "subtitle": "Track your BMI & achieve your fitness goals 💪",
-            "promo_image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/bmi_banner.png",
-            "button_text": "Check BMI Calculator",
-            "button_color": "#FF7043",
-            "playstore_url": "https://play.google.com/store/apps/details?id=bmi.calculator.bmicalculator.weightlosstracker",
-            "dismiss_text": "No, exit now"
+            "app_name": "BMI Tracker",
+            "app_icon": "https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/bmi_banner.png",
+            "playstore_url": "https://play.google.com/store/apps/details?id=bmi.calculator.bmicalculator.weightlosstracker"
         }
     ]
 }
