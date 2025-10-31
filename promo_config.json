@@ -7,31 +7,37 @@
         {
             "app_name": "YogaCare",
             "app_icon": "https://play-lh.googleusercontent.com/qb6BdNWTp2GXvQrz96I4dw5sW3HoLkAxPhtvHxzVdv7dHCHvsQaqabqpRf4VwkAL-w=w480-h960-rw",
+            "playstore_url": "https://play.google.com/store/apps/details?id=com.yogacare.meditate.sleep.relax.music",
             "package_name": "com.yogacare.meditate.sleep.relax.music"
         },
         {
             "app_name": "NewsStand",
             "app_icon": "https://play-lh.googleusercontent.com/qT81AnzNnNiXmtahFqFGnpklYnnfTcixyDUeEcRHSQmT02C5JvHOuuKBEqskA7KFGW5FSOipq2rCQCsJOjWmaFs=w480-h960-rw",
+            "playstore_url": "https://play.google.com/store/apps/details?id=com.newsroom.englishnews",
             "package_name": "com.newsroom.englishnews"
         },
         {
             "app_name": "BMI Tracker",
             "app_icon": "https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/bmi_banner.png",
+            "playstore_url": "https://play.google.com/store/apps/details?id=bmi.calculator.bmicalculator.weightlosstracker",
             "package_name": "bmi.calculator.bmicalculator.weightlosstracker"
         },
         {
             "app_name": "YogaCare",
             "app_icon": "https://play-lh.googleusercontent.com/qb6BdNWTp2GXvQrz96I4dw5sW3HoLkAxPhtvHxzVdv7dHCHvsQaqabqpRf4VwkAL-w=w480-h960-rw",
+            "playstore_url": "https://play.google.com/store/apps/details?id=com.yogacare.meditate.sleep.relax.music",
             "package_name": "com.yogacare.meditate.sleep.relax.music"
         },
         {
             "app_name": "NewsStand",
             "app_icon": "https://play-lh.googleusercontent.com/qT81AnzNnNiXmtahFqFGnpklYnnfTcixyDUeEcRHSQmT02C5JvHOuuKBEqskA7KFGW5FSOipq2rCQCsJOjWmaFs=w480-h960-rw",
+            "playstore_url": "https://play.google.com/store/apps/details?id=com.newsroom.englishnews",
             "package_name": "com.newsroom.englishnews"
         },
         {
             "app_name": "BMI Tracker",
             "app_icon": "https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/bmi_banner.png",
+            "playstore_url": "https://play.google.com/store/apps/details?id=bmi.calculator.bmicalculator.weightlosstracker",
             "package_name": "bmi.calculator.bmicalculator.weightlosstracker"
         }
     ]
