@@ -6,7 +6,7 @@ google.com, pub-3145283347739740, DIRECT, f08c47fec0942fa0
 facebook.com, 311698217429454, DIRECT, c3e20eee3f780d68
 
 # IronSource
-OWNERDOMAIN=hapvey.com
+OWNERDOMAIN=https://www.hapvey.com
 ironsrc.com, 36b2e98b, Direct
 
 # IronSource Authorized Resellers
