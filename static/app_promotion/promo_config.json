@@ -6,37 +6,37 @@
     "promos": [
         {
             "app_name": "BMI Calculator",
-            "app_icon": "https://www.hapvey.com/static/assets/bmi_icon.webp",
+            "app_icon": "https://www.hapvey.com/static/app_promotion/assets/bmi_icon.webp",
             "playstore_url": "https://play.google.com/store/apps/details?id=bmi.calculator.bmicalculator.weightlosstracker",
             "package_name": "bmi.calculator.bmicalculator.weightlosstracker"
         },
         {
             "app_name": "NewsStand",
-            "app_icon": "https://www.hapvey.com/static/assets/newsstand_icon.webp",
+            "app_icon": "https://www.hapvey.com/static/app_promotion/assets/newsstand_icon.webp",
             "playstore_url": "https://play.google.com/store/apps/details?id=com.newsroom.englishnews",
             "package_name": "com.newsroom.englishnews"
         },
         {
             "app_name": "Ringtones For Android",
-            "app_icon": "https://www.hapvey.com/static/assets/ringtones_for_android_icon.webp",
+            "app_icon": "https://www.hapvey.com/static/app_promotion/assets/ringtones_for_android_icon.webp",
             "playstore_url": "https://play.google.com/store/apps/details?id=freeringtonesforandroid.bestringtoneapp.ringtoneapp",
             "package_name": "freeringtonesforandroid.bestringtoneapp.ringtoneapp"
         },
         {
             "app_name": "Timer Stopwatch",
-            "app_icon": "https://www.hapvey.com/static/assets/stopwatch_icon.webp",
+            "app_icon": "https://www.hapvey.com/static/app_promotion/assets/stopwatch_icon.webp",
             "playstore_url": "https://play.google.com/store/apps/details?id=com.hapvey.stopwatch",
             "package_name": "com.hapvey.stopwatch"
         },
         {
             "app_name": "Train Ticket Booking App",
-            "app_icon": "https://www.hapvey.com/static/assets/train_ticket_icon.webp",
+            "app_icon": "https://www.hapvey.com/static/app_promotion/assets/train_ticket_icon.webp",
             "playstore_url": "https://play.google.com/store/apps/details?id=book.train.ticket.online.app",
             "package_name": "book.train.ticket.online.app"
         },
         {
             "app_name": "YogaCare: Sleep & Relax",
-            "app_icon": "https://www.hapvey.com/static/assets/yogacare_icon.webp",
+            "app_icon": "https://www.hapvey.com/static/app_promotion/assets/yogacare_icon.webp",
             "playstore_url": "https://play.google.com/store/apps/details?id=com.yogacare.meditate.sleep.relax.music",
             "package_name": "com.yogacare.meditate.sleep.relax.music"
         }
